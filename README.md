@@ -7,3 +7,7 @@ Tengo 23 años, soy Argentino y actualmente estoy estudiando desarrollo de video
 ## Información de Contacto
 
 lucascuello8@gmail.com
+
+## Hobbies
+
+Comer, dormir y dormir más!
