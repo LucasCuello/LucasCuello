@@ -11,3 +11,15 @@ lucascuello8@gmail.com
 ## Lenguages
 
 Español e Inglés.
+
+## Skills
+
+Hierro 4 en LoL - Liga cartón en Curling
+
+## Technologies
+
+Muchas, muchísimas, una fuente inagotable de conocimiento...
+
+## Hobbies
+
+Comer, dormir y dormir más!
