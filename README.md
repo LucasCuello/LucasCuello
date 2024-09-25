@@ -11,3 +11,8 @@ lucascuello8@gmail.com
 ## Skills
 
 Hierro 4 en LoL - Liga cartón en Curling
+
+## Technologies
+
+Muchas, muchísimas, una fuente inagotable de conocimiento...
+
