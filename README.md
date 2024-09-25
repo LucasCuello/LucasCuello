@@ -8,4 +8,7 @@ Tengo 23 años, soy Argentino y actualmente estoy estudiando desarrollo de video
 
 lucascuello8@gmail.com
 
-hola como están!
+
+## Technologies
+
+Muchas, muchísimas, una fuente inagotable de conocimiento...
