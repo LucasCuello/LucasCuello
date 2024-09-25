@@ -16,3 +16,8 @@ Hierro 4 en LoL - Liga cartón en Curling
 
 Muchas, muchísimas, una fuente inagotable de conocimiento...
 
+## Hobbies
+
+Comer, dormir y dormir más!
+
+
