@@ -8,18 +8,18 @@ Tengo 23 años, soy Argentino y actualmente estoy estudiando desarrollo de video
 
 lucascuello8@gmail.com
 
-## Lenguages
+## Lenguajes
 
 Español e Inglés.
 
-## Skills
+## Habilidades
 
 Hierro 4 en LoL - Liga cartón en Curling
 
-## Technologies
+## Tecnologías
 
 Muchas, muchísimas, una fuente inagotable de conocimiento...
 
-## Hobbies
+## Pasatiempos
 
 Comer, dormir y dormir más!
